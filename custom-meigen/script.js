@@ -4,7 +4,7 @@ particlesJS('particles-js',
       //シェイプ数
       "number": {
         //要素内に表示するシェイプの数
-        "value": 250,
+        "value": 100,
         "density": {
           //シェイプ表示間隔設定
           "enable": true, //true:有効, false:無効
@@ -103,7 +103,7 @@ particlesJS('particles-js',
         //動きを制御するか
         "enable": true, //true:有効, false:無効
         //動く速度
-        "speed": 60,
+        "speed": 30,
         //動く方向
         "direction": "none", //none, top, top-right, right, bottom-right, bottom, bottom-left, left, top-left
         //ランダム設定
